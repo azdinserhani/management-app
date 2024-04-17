@@ -1,0 +1,12 @@
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\obj\Debug\gestion_facture.Form1.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\obj\Debug\gestion_facture.Properties.Resources.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\obj\Debug\gestion_facture.csproj.GenerateResource.Cache
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\bin\Debug\gestion_facture.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\bin\Debug\gestion_facture.pdb
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\obj\Debug\gestion_facture.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_facture\obj\Debug\gestion_facture.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_facture\gestion_facture\obj\Debug\gestion_facture.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_facture\gestion_facture\obj\Debug\gestion_facture.pdb
+F:\project C#\gestion_facture\gestion_facture\obj\Debug\gestion_facture.exe
+F:\project C#\gestion_facture\gestion_facture\obj\Debug\gestion_facture.pdb
